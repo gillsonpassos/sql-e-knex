@@ -17,6 +17,6 @@ services:
       - 3306:3306
     environment:
       MYSQL_ROOT_PASSWORD: senha
-      MYSQL_DATABASE: base_de_dados
+      MYSQL_DATABASE: base_de_dados_2
       MYSQL_USER: usuario
       MYSQL_PASSWORD: senha

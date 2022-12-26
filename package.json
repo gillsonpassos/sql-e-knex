@@ -1,0 +1,57 @@
+{
+  "name": "sql-e-knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colorette": "^2.0.19",
+    "commander": "^9.4.1",
+    "debug": "^4.3.4",
+    "denque": "^2.1.0",
+    "escalade": "^3.1.1",
+    "esm": "^3.2.25",
+    "function-bind": "^1.1.1",
+    "generate-function": "^2.3.1",
+    "get-package-type": "^0.1.0",
+    "getopts": "^2.3.0",
+    "has": "^1.0.3",
+    "iconv-lite": "^0.6.3",
+    "interpret": "^2.2.0",
+    "is-core-module": "^2.11.0",
+    "is-property": "^1.0.2",
+    "knex": "^2.3.0",
+    "lodash": "^4.17.21",
+    "long": "^4.0.0",
+    "lru-cache": "^6.0.0",
+    "ms": "^2.1.2",
+    "mysql2": "^2.3.3",
+    "named-placeholders": "^1.1.2",
+    "path-parse": "^1.0.7",
+    "pg-connection-string": "^2.5.0",
+    "pseudomap": "^1.0.2",
+    "rechoir": "^0.8.0",
+    "resolve": "^1.22.1",
+    "resolve-from": "^5.0.0",
+    "safer-buffer": "^2.1.2",
+    "seq-queue": "^0.0.5",
+    "sqlstring": "^2.3.3",
+    "supports-preserve-symlinks-flag": "^1.0.0",
+    "tarn": "^3.0.2",
+    "tildify": "^2.0.0",
+    "yallist": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gillsonpassos/sql-e-knex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gillsonpassos/sql-e-knex/issues"
+  },
+  "homepage": "https://github.com/gillsonpassos/sql-e-knex#readme"
+}
